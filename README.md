@@ -27,7 +27,7 @@ The dashboard includes heatmaps, unit maps, and customized visuals for a rich an
 - **Visualization:** Power BI (HTML Visual, Deneb Visual)
 
 ## 📸 Dashboard Preview
-![dashboard](ssDashboard.png)
+![dashboard](screenshots/ssDashboard.png)
 
 ## 📊 Key Insights
 - Highlighted top streamed songs and artists of 2024.
